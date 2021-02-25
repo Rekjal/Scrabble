@@ -1,0 +1,16 @@
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\bin\Debug\net5.0\Scrabble.deps.json
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\bin\Debug\net5.0\Scrabble.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\bin\Debug\net5.0\ref\Scrabble.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\bin\Debug\net5.0\Scrabble.pdb
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.csprojAssemblyReference.cache
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.AssemblyInfoInputs.cache
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.AssemblyInfo.cs
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\ref\Scrabble.dll
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.pdb
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\bin\Debug\net5.0\Scrabble.exe
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\bin\Debug\net5.0\Scrabble.runtimeconfig.json
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\bin\Debug\net5.0\Scrabble.runtimeconfig.dev.json
+C:\Users\SVAYALK\Desktop\new_salim\epicodus\epicodus2021\c#\Scrabble.Solution\Scrabble\obj\Debug\net5.0\Scrabble.genruntimeconfig.cache
